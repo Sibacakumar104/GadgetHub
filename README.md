@@ -20,4 +20,4 @@ To get a local copy up and running, follow these simple steps:
 
 ## Contact
 
-Sibaca Kumar - [your-email@example.com](mailto:sibaca104@gmail.com)
+Sibaca Kumar - [Email](mailto:sibaca104@gmail.com)
